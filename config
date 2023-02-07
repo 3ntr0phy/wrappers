@@ -1,0 +1,7 @@
+dirsearch="/home/AMBERJACK/ge7odvdfy1/Documents/tools/dirsearch-master/dirsearch.py"
+wordlist1="/home/AMBERJACK/ge7odvdfy1/Documents/wordlists/SecLists-master/Discovery/Web-Content/raft-large.txt"
+wordlist2="/home/AMBERJACK/ge7odvdfy1/Documents/wordlists/Bug-Bounty-Wordlists/leaky-misconfigs.txt"
+wordlist3="/home/AMBERJACK/ge7odvdfy1/Documents/wordlists/Bug-Bounty-Wordlists/all-files-leaked.txt"
+wordlist4="/home/AMBERJACK/ge7odvdfy1/Documents/wordlists/SecLists-master/Discovery/Web-Content/directory-list-2.3-big.txt"
+katana="/home/AMBERJACK/ge7odvdfy1/Documents/tools/katana"
+feroxbuster="/home/AMBERJACK/ge7odvdfy1/Documents/tools/feroxbuster"
